@@ -21,7 +21,7 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0166_000.yaml, hash: 'sha256:c0f7777384537e9432ebc3e79a89d7f9ef24f4807b19082410dfeb15f0a26457'}
+  - {seq: 0, filename: KR6q0166_000.yaml, hash: 'sha256:bef3572471c9b4ffaf4cbc3426b3e8b789a3b099acc21b37f4bb3923e49eb97e'}
   - {seq: 1, filename: KR6q0166_001.yaml, hash: 'sha256:003504a03687bb3cef07a762fa8afb14aabe1e3be81b37823a6b7a905edc8f3c'}
   - {seq: 2, filename: KR6q0166_002.yaml, hash: 'sha256:6cd4569f6cf937869c8b2a6bd228e65f35448bf9bebf42ebbff537a0fd6e6321'}
   - {seq: 3, filename: KR6q0166_003.yaml, hash: 'sha256:9e81ccb28c810940dd2740a6ea417988bbb256313f9f16383cf813b4ad02d217'}
@@ -31,7 +31,7 @@ assets:
   - {seq: 7, filename: KR6q0166_007.yaml, hash: 'sha256:6e870ad19b19b86975f2214462f3e8e87118676e4f8ad03aadaaa0f26f4ee31e'}
   - {seq: 8, filename: KR6q0166_008.yaml, hash: 'sha256:8243a195befdf13ad56de43ae37a7128e20c0f20c24a4a451432f5f020e2fb2a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0166_000.markers.yaml, hash: 'sha256:a9c3fa74d144a7f7b9cf5daf4e7746781ec146d1f3c27c753acd4914cb857414'}
+  - {seq: 0, role: markers, filename: assets/KR6q0166_000.markers.yaml, hash: 'sha256:5666730d8eda6278a34d38238f86e11d0f3e55ec2898c682ddc43f2c3997f930'}
   - {seq: 1, role: markers, filename: assets/KR6q0166_001.markers.yaml, hash: 'sha256:bb67da662a46b87eea95ae957454ddf6cf8eac5df14ed6ac39f9c22b1a9cdadf'}
   - {seq: 2, role: markers, filename: assets/KR6q0166_002.markers.yaml, hash: 'sha256:51c0aab58fb360c0ddab22f50208b50d230bd9a71ef239c971c1dc08abf67c8c'}
   - {seq: 3, role: markers, filename: assets/KR6q0166_003.markers.yaml, hash: 'sha256:2b154180a60cf55a17b24e290acbe274b0fc0bc503ddb4e9c735a5d3121f2ed8'}
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0166_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1278-A
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0166_X_000-mulu-2
     span:
-    - front
+    - body
     - 296
     - 296
   label: No. 1278-B
@@ -65,7 +65,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0166_X_000-mulu-3
     span:
-    - front
+    - body
     - 508
     - 508
   label: No. 1278-C
@@ -75,7 +75,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0166_X_000-mulu-4
     span:
-    - front
+    - body
     - 818
     - 818
   label: 雜毒海目錄
@@ -7581,7 +7581,7 @@ table_of_contents:
   label: 除夕
   type: mulu
   level: 1
-hash: sha256:d07347cf698baa30fb70d8d9a07475a0aff657ce66fb44238e11728f63654e33
+hash: sha256:1d1d4324203bb1c9b93e0eacea464823ca9bb353b4c31c59817a3b22fdfeabf5
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
